@@ -1,5 +1,12 @@
+
 ---
-title: "Ananke Test Fixture"
+title: "Mi primera web Hugo"
 ---
 
-Homepage introduction for the test fixture site. Recent posts appear below.
+# Mi primera web con Hugo
+
+### Segundo deployment en AWS Amplify 
+
+Esta es la segunda versión de mi página web, publicada utilizando GitHub y AWS Amplify.
+
+¡Seguimos aprendiendo!
